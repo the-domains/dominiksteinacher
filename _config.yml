@@ -1,0 +1,28 @@
+name: DominikSteinacher
+favicon: null
+layout_spectrum: 0.9573300783522427
+typography_spectrum: 0.22971962951123714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6812121826224029
+  lightness: 0.5972923873923719
+  saturation: 0.4708107665646821
+  rhythmicContrast: 0.27650621137581766
+purpose: []
