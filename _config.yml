@@ -1,5 +1,8 @@
+name: DominikSteinacher
+favicon: null
+layout_spectrum: 0.48635
+typography_spectrum: 0.07885305
 title: This is me
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6218638
-  brandStrength: 0.765233
-  lightness: 0.4444444
   brandColors:
     - '#010103'
     - '#fff9ea'
     - '#252527'
     - '#e7a468'
     - '#6d6865'
+  brandStrength: 0.765233
+  lightness: 0.4444444
+  saturation: 0.6218638
   rhythmicContrast: 0.5519713
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: DominikSteinacher
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.07885305
-layout_spectrum: 1
+purpose: []
